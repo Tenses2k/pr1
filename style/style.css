@@ -1,0 +1,12 @@
+*{
+    background-color: gray;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 400px;
+    height: 350px;
+}
+
+
