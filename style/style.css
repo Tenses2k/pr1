@@ -1,12 +1,18 @@
 *{
     background-color: gray;
+    text-decoration: none;
+    font-size: 20px;
 }
 
-img {
+.img1{
+    background-image: url(/img/tr.jpg);
     display: block;
-    margin: auto;
-    width: 400px;
-    height: 350px;
+    width: 450px;
+    height: 300px;
+    border-radius: 20px;
 }
 
-
+h1{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
